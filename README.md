@@ -37,6 +37,11 @@
 
 <div align = "center">
     <h2>🐍 My Contribution 🐍</h2>
-    <br>
-    <img alt = "Snake eating my contributions"  src="https://raw.githubusercontent.com/vaibhav-patel-1211/vaibhav-patel-1211/output/github-contribution-grid-snake.svg" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-patel-1211/vaibhav-patel-1211/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-patel-1211/vaibhav-patel-1211/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav-patel-1211/vaibhav-patel-1211/output/github-contribution-grid-snake.svg">
+</picture>
+
