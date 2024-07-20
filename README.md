@@ -43,6 +43,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=firebase" />
     <br/>
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-dark.svg" width="50">
 </div>
 
 <div align = "center">
