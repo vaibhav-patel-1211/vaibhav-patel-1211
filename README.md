@@ -37,7 +37,7 @@
 
 <div align = "center">
     <a href = "https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,java,cpp,c" />
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,flutter,dart,python" />
     <br/>
