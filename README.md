@@ -2,9 +2,12 @@
 
   <img align ="right" src = "https://visitor-badge.laobi.icu/badge?page_id=vaibhav-patel-1211.vaibhav-patel-1211" />
 
-<h1 align = "center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&pause=1000&center=true&random=false&width=500&height=70&lines=Hey+there!%F0%9F%91%8B;I'm+Vaibhav;Welcome+to+my+GitHub+nook!%F0%9F%98%8A" alt="Typing SVG" /></a>
+<h1 align="center"> 
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&center=true&random=false&width=500&height=70&lines=Hey+there!👋;I'm+Vaibhav;Welcome+to+my+GitHub+nook!😊" alt="Typing SVG" />
+    </a>
 </h1>
+
 
 <div align = "center">
   
