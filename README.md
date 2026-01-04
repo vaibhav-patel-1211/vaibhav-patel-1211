@@ -4,11 +4,6 @@
   src="https://visitor-badge.laobi.icu/badge?page_id=vaibhav-patel-1211.vaibhav-patel-1211"
 />
 
-<!-- Centered Typing SVG -->
-<h1 align="center">
-  <div align="center">
-    <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%230d1017&cursorStyle=block&lines=%5B%7B%22text%22%3A%22HEY+THERE%21%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22I%27M+VAIBHAV%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22WELCOME+TO+MY+GITHUB+NOOK%21+%F0%9F%98%8A%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.10010010010010009%7D%5D" alt="Typing SVG" /></a>
-</h1>
 
 <!-- Intro Section -->
 <div align="center">
